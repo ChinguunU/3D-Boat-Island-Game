@@ -1,0 +1,15 @@
+#ifndef ISLAND_MEASURES
+#define ISLAND_MEASURES
+
+#define MAX_I_HEALTH 1000
+#define CANNON_SCALE 0.5
+#define CANNON_WIDTH 0.1
+#define CANNON_LENGTH 1.5
+#define CANNON_BASE_HEIGHT 0.7
+#define CANNON_ELEV 0.2
+#define CANNON_BODY_RAD 0.5
+#define HEIGHT 3
+#define ABOVE_SEA_LEVEL 0.7
+#define ISLAND_RAD 3
+
+#endif // ISLAND_MEASURES
